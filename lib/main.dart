@@ -148,7 +148,6 @@ class Newsdata extends State<Newsapp> {
       },
     );
   }
-
   Widget buildNewsCard(dynamic news) {
     return Card(
       elevation: 10,
